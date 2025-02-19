@@ -3,7 +3,7 @@
 ## **Project Overview**
 This analysis explores historical sales data to identify **which products are frequently purchased together**. By leveraging these insights, businesses can optimize **cross-selling strategies**, improve inventory planning, and maximize **profit margins**.
 
-![Cross-Marketing Diagram](https://drive.google.com/file/d/1fuRph7DrjDMn-w7OXWqWK1IMcL4Z0SlS/view?usp=drive_link)
+![Cross-Marketing Diagram](https://drive.google.com/uc?id=1fuRph7DrjDMn-w7OXWqWK1IMcL4Z0SlS)
 
 ---
 
